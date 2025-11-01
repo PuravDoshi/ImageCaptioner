@@ -32,6 +32,6 @@ pip install tensorflow keras numpy pandas pillow tqdm
 ## 📂 Project structure
 ```bash
 ImageCaptionGenerator/
-├── image_caption_generator.py   # Main script (train + test)
+├── image_captioner.py   # Main script (train + test)
 └── README.md                    # Project documentation
 ```
